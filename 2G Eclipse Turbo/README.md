@@ -9,28 +9,28 @@ This is to faclitate getting the car started, idleing, and also getting the prop
 __This is for expiremental use. Please use with caution and understand hardware and software limitations as well as vulnerabilities. Drive safely and respect others.__
 
 To run and/or compile, you will need
-    * [ECUFlash >= v1.42]
-    * [Tactrix Openport Cable or equivalent]
-    * [An EVO 8 2003-2005 ECU wired in correctly and some form of 4G63 engine]
+  * [ECUFlash >= v1.42]
+  * [Tactrix Openport Cable or equivalent]
+  * [An EVO 8 2003-2005 ECU wired in correctly and some form of 4G63 engine]
 
 This will run turn-key if you have
-    * [4G63 2.3 @ ~ 8.5:1]
-    * [OEM MLS gasket w/ ARP L19 or equivalent head studs]
-    * [OEM 2G intake manifold]
-    * [OEM 1Gb throttle body w/ sensors]
-    * [OEM 2G head]
-    * [GSC S2 cams or equivalent]
-    * [Garrett GT35R w/ hot parts and .68 AR (test car has an FP35 and FP race manifold)]
-    * [3 inch TBE w/ wideband for monitoring]
-    * [Dual Walbro GSS342 fuel pumps (both running) with AFPR at 40PSI idle]
-    * [FIC 2150cc injectors w/ resistor pack delete]
-    * [At least 2400# clutch and kevlar disc for 93 or twin-disc for E85 (comp twin-disc used)]
-    * [Built transmission needed for E85 / OEM gear ratios for 2-5 OK]
-    * [EVO 8 ECU]
-    * [Motorola 4 bar MAP sensor (OEM location)]
-    * [GM IAT sensor (wired to OEM IAT wires from AFM plug)]
-    * [Hallman MBC @ 25 PSI for 93 or 30 PSI for E85]
-    * [NGK BPR8ES or BR8ES @ 0.022 gap]
+  * [4G63 2.3 @ ~ 8.5:1]
+  * [OEM MLS gasket w/ ARP L19 or equivalent head studs]
+  * [OEM 2G intake manifold]
+  * [OEM 1Gb throttle body w/ sensors]
+  * [OEM 2G head]
+  * [GSC S2 cams or equivalent]
+  * [Garrett GT35R w/ hot parts and .68 AR (test car has an FP35 and FP race manifold)]
+  * [3 inch TBE w/ wideband for monitoring]
+  * [Dual Walbro GSS342 fuel pumps (both running) with AFPR at 40PSI idle]
+  * [FIC 2150cc injectors w/ resistor pack delete]
+  * [At least 2400# clutch and kevlar disc for 93 or twin-disc for E85 (comp twin-disc used)]
+  * [Built transmission needed for E85 / OEM gear ratios for 2-5 OK]
+  * [EVO 8 ECU]
+  * [Motorola 4 bar MAP sensor (OEM location)]
+  * [GM IAT sensor (wired to OEM IAT wires from AFM plug)]
+  * [Hallman MBC @ 25 PSI for 93 or 30 PSI for E85]
+  * [NGK BPR8ES or BR8ES @ 0.022 gap]
 
 
 ## Getting started
