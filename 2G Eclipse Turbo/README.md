@@ -13,7 +13,7 @@ To run and/or compile, you will need
     * [Tactrix Openport Cable or equivalent]
     * [An EVO 8 2003-2005 ECU wired in correctly and some form of 4G63 engine]
 
-This will run turn-key if you have:
+This will run turn-key if you have
     * [4G63 2.3 @ ~ 8.5:1]
     * [OEM MLS gasket w/ ARP L19 or equivalent head studs]
     * [OEM 2G intake manifold]
